@@ -1,0 +1,28 @@
+<resources>
+    <dimen name="menu_width_closed">70dp</dimen>
+    <dimen name="menu_width_expand">170dp</dimen>
+    <dimen name="menu_width_opened">240dp</dimen>
+
+
+    <dimen name="tabs_closed_width">@dimen/menu_width_closed</dimen>
+    <dimen name="tabs_title_margin_left">@dimen/menu_width_closed</dimen>
+    <!--56.0dip-->
+    <dimen name="tabs_title_padding_fix_for_vertical_alignment">6.0dip</dimen>
+    <dimen name="tabs_avatar_size">40.0dip</dimen>
+    <dimen name="tabs_avatar_horizontal_padding">8.0dip</dimen>
+    <dimen name="tabs_avatar_vertical_padding">14.0dip</dimen>
+    <dimen name="tabs_unread_margin_left">5.0dip</dimen>
+    <dimen name="tabs_unread_margin_top">11.0dip</dimen>
+    <dimen name="tabs_divider_height">-19.0dip</dimen>
+    <dimen name="tabs_new_chat_image_height">48.0dip</dimen>
+    <dimen name="tabs_new_chat_height">59.0dip</dimen>
+    <dimen name="tabs_new_chat_solid_bottom">11.0dip</dimen>
+    <dimen name="tabs_tab_height">70.0dip</dimen>
+    <dimen name="tabs_sticky_margin_top">-22.0dip</dimen>
+    <dimen name="tabs_sticky_margin_bottom">-12.0dip</dimen>
+    <dimen name="tabs_footer_button_width">46.0dip</dimen>
+    <item type="dimen" name="tabs_footer_height">@dimen/bottom_row_height</item>
+
+    <dimen name="bottom_row_height">50.0dip</dimen>
+
+</resources>

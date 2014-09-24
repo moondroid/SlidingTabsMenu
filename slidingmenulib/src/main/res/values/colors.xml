@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tab_avatar_background">#ffbbbbbb</color>
+    <color name="tab_avatar_text">#ffffffff</color>
+    <color name="tab_background">#ffe8e8e8</color>
+    <color name="tab_active_text_title">#ff000000</color>
+    <color name="tab_text_title">#ff666666</color>
+    <color name="tab_unread_indicator_background">#ff000000</color>
+    <color name="tab_unread_indicator_text">#ffffffff</color>
+</resources>

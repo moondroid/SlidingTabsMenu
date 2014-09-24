@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="color_tab_active_text_title" format="reference|color" />
+    <attr name="color_tab_avatar_background" format="reference|color" />
+    <attr name="color_tab_background" format="reference|color" />
+    <attr name="color_tab_text_title" format="reference|color" />
+    <attr name="color_tab_unread_indicator_background" format="reference|color" />
+    <attr name="color_tab_unread_indicator_text" format="reference|color" />
+
+    <attr name="drawable_active_tab_new_chat" format="reference" />
+    <attr name="drawable_bg_tab_solid_top" format="reference" />
+
+    <attr name="alpha_tab_avatar" format="float" />
+
+
+</resources>
